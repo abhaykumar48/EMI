@@ -1,0 +1,132 @@
+<resources>
+    <string name="app_name">EMICalculator</string>
+
+    <string name="your_loan_emi">Your Loan Installment is</string>
+    <string name="per_month">per month</string>
+
+    <string name="frequency">Frequency</string>
+    <string name="monthly">Monthly</string>
+    <string name="quarterly">Quarterly</string>
+    <string name="halfYearly">Half-Yearly</string>
+
+    <string name="loan_amount">Loan Amount</string>
+    <string name="tenure">Tenure (In Month)</string>
+    <string name="rateOfInterest">Rate Of Interest</string>
+
+    <string name="applyNowButton">Apply Now</string>
+
+    <string-array name="emi_calculator_min_loan_amount">
+        <item>5000</item>
+        <item>100000</item>
+        <item>1000000</item>
+        <item>7000</item>
+        <item>50000</item>
+        <item>25000</item>
+        <item>800000</item>
+        <item>800000</item>
+        <item>100000</item>
+    </string-array>
+
+    <string name="max_roi" formatted="false">%s %%</string>
+    <string name="Rs">\u20B9%s</string>
+
+    <string-array name="emi_calculator_max_loan_amount_value">
+        <item>500000</item>
+        <item>1500000</item>
+        <item>7500000</item>
+        <item>2000000</item>
+        <item>5000000</item>
+        <item>1000000</item>
+        <item>150000000</item>
+        <item>5000000</item>
+        <item>2500000</item>
+    </string-array>
+    <string-array name="emi_calculator_max_loan_amount">
+        <item>5 Lakh</item>
+        <item>15 Lakh</item>
+        <item>75 Lakh</item>
+        <item>20 Lakh</item>
+        <item>50 Lakh</item>
+        <item>10 Lakh</item>
+        <item>15 cr</item>
+        <item>50 Lakh</item>
+        <item>25 Lakh</item>
+    </string-array>
+    <string-array name="emi_calculator_loan_amount_interval">
+        <item>1000</item>
+        <item>1000</item>
+        <item>10000</item>
+        <item>1000</item>
+        <item>10000</item>
+        <item>1000</item>
+        <item>10000</item>
+        <item>10000</item>
+        <item>1000</item>
+    </string-array>
+    <string-array name="emi_calculator_min_tenure">
+        <item>6</item>
+        <item>12</item>
+        <item>6</item>
+        <item>12</item>
+        <item>12</item>
+        <item>24</item>
+        <item>36</item>
+        <item>36</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="emi_calculator_max_tenure">
+        <item>36</item>
+        <item>60</item>
+        <item>36</item>
+        <item>60</item>
+        <item>84</item>
+        <item>84</item>
+        <item>180</item>
+        <item>180</item>
+        <item>60</item>
+    </string-array>
+    <string-array name="emi_calculator_tenure_interval">
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="emi_calculator_min_roi">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="emi_calculator_max_roi">
+        <item>15</item>
+        <item>40</item>
+        <item>40</item>
+        <item>40</item>
+        <item>40</item>
+        <item>40</item>
+        <item>40</item>
+        <item>40</item>
+        <item>40</item>
+    </string-array>
+    <string-array name="emi_calculator_roi_interval">
+        <item>0.1</item>
+        <item>0.1</item>
+        <item>0.1</item>
+        <item>0.1</item>
+        <item>0.1</item>
+        <item>0.1</item>
+        <item>0.1</item>
+        <item>0.1</item>
+        <item>1</item>
+    </string-array>
+</resources>
